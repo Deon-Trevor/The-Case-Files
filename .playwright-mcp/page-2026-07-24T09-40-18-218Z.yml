@@ -1,0 +1,110 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: // declassified — for public awareness // blog.syncpundit.io //
+  - banner [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: records room of a curious n00b 👽
+      - heading "The Case Files of Sync_Pundit" [level=1] [ref=e6]: The Case Filesof Sync_Pundit
+    - navigation [ref=e7]:
+      - link "Investigations" [ref=e8] [cursor=pointer]:
+        - /url: "#"
+      - link "Crypto Scams" [ref=e9] [cursor=pointer]:
+        - /url: "#"
+      - link "Walkthroughs" [ref=e10] [cursor=pointer]:
+        - /url: "#"
+      - link "About" [ref=e11] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e12]:
+    - paragraph [ref=e13]: "Every post here is a case file: phishing crews unmasked, scam networks mapped, infrastructure traced back to the registrar that ignored it. Threat intelligence, mostly from the crypto trenches — evidence first, receipts always."
+    - generic [ref=e14]:
+      - text: Phishersof man
+      - generic [ref=e16]: caught & catalogued
+  - generic [ref=e17]:
+    - generic [ref=e18]: index — 24 files on record
+    - generic [ref=e19]: "sorted: newest first"
+  - main [ref=e20]:
+    - 'link "CASE 2026-014 · PINNED Investigation Jun 2026 Anatomy of a Romance Scam Network Following one fake profile into a web of 40+ personas, shared payment mules, and a hosting provider in plain sight. Full infrastructure map inside. exhibits: 31 Ongoing" [ref=e21] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2026-014 · PINNED
+      - generic [ref=e22]:
+        - generic [ref=e23]:
+          - generic [ref=e24]: Investigation
+          - generic [ref=e25]: Jun 2026
+        - heading "Anatomy of a Romance Scam Network" [level=2] [ref=e26]
+        - paragraph [ref=e27]: Following one fake profile into a web of 40+ personas, shared payment mules, and a hosting provider in plain sight. Full infrastructure map inside.
+        - generic [ref=e28]:
+          - generic [ref=e29]: "exhibits: 31"
+          - generic [ref=e30]: Ongoing
+    - 'link "CASE 2026-011 Vindication May 2026 Mission: Bianca Coster When the internet convicts the wrong person, the evidence has to speak louder. Reopening the file. exhibits: 12 Closed" [ref=e31] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2026-011
+      - generic [ref=e32]:
+        - generic [ref=e33]:
+          - generic [ref=e34]: Vindication
+          - generic [ref=e35]: May 2026
+        - 'heading "Mission: Bianca Coster" [level=2] [ref=e36]'
+        - paragraph [ref=e37]: When the internet convicts the wrong person, the evidence has to speak louder. Reopening the file.
+        - generic [ref=e38]:
+          - generic [ref=e39]: "exhibits: 12"
+          - generic [ref=e40]: Closed
+    - 'link "CASE 2025-032 Phishing Nov 2025 MetaMask Phisher Plays the Victim A wallet-drainer operator files an abuse report — against me. The audacity, documented. exhibits: 9 Closed" [ref=e41] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-032
+      - generic [ref=e42]:
+        - generic [ref=e43]:
+          - generic [ref=e44]: Phishing
+          - generic [ref=e45]: Nov 2025
+        - heading "MetaMask Phisher Plays the Victim" [level=2] [ref=e46]
+        - paragraph [ref=e47]: A wallet-drainer operator files an abuse report — against me. The audacity, documented.
+        - generic [ref=e48]:
+          - generic [ref=e49]: "exhibits: 9"
+          - generic [ref=e50]: Closed
+    - 'link "CASE 2025-027 Infrastructure Sep 2025 Namecheap: Home to Phishing Sites What happens when abuse reports go to /dev/null. A registrar accountability audit. exhibits: 18 Ongoing" [ref=e51] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-027
+      - generic [ref=e52]:
+        - generic [ref=e53]:
+          - generic [ref=e54]: Infrastructure
+          - generic [ref=e55]: Sep 2025
+        - 'heading "Namecheap: Home to Phishing Sites" [level=2] [ref=e56]'
+        - paragraph [ref=e57]: What happens when abuse reports go to /dev/null. A registrar accountability audit.
+        - generic [ref=e58]:
+          - generic [ref=e59]: "exhibits: 18"
+          - generic [ref=e60]: Ongoing
+    - 'link "CASE 2025-019 Crypto Jul 2025 PancakeSwap & Cream Finance DNS Attack Two DeFi frontends hijacked in one night. Tracing the DNS takeover minute by minute. exhibits: 14 Closed" [ref=e61] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-019
+      - generic [ref=e62]:
+        - generic [ref=e63]:
+          - generic [ref=e64]: Crypto
+          - generic [ref=e65]: Jul 2025
+        - heading "PancakeSwap & Cream Finance DNS Attack" [level=2] [ref=e66]
+        - paragraph [ref=e67]: Two DeFi frontends hijacked in one night. Tracing the DNS takeover minute by minute.
+        - generic [ref=e68]:
+          - generic [ref=e69]: "exhibits: 14"
+          - generic [ref=e70]: Closed
+    - 'link "FIELD NOTES 07 CTF Mar 2025 Uranium CTF Walkthrough Sharpening the tools between hunts. Full write-up, no spoiler shame. exhibits: 6 Training" [ref=e71] [cursor=pointer]':
+      - /url: "#"
+      - text: FIELD NOTES 07
+      - generic [ref=e72]:
+        - generic [ref=e73]:
+          - generic [ref=e74]: CTF
+          - generic [ref=e75]: Mar 2025
+        - heading "Uranium CTF Walkthrough" [level=2] [ref=e76]
+        - paragraph [ref=e77]: Sharpening the tools between hunts. Full write-up, no spoiler shame.
+        - generic [ref=e78]:
+          - generic [ref=e79]: "exhibits: 6"
+          - generic [ref=e80]: Training
+  - contentinfo [ref=e81]:
+    - generic [ref=e82]: © sync_pundit — no trackers, no logs
+    - generic [ref=e83]:
+      - link "rss" [ref=e84] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "mastodon" [ref=e85] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "github" [ref=e86] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "substack" [ref=e87] [cursor=pointer]:
+        - /url: "#"

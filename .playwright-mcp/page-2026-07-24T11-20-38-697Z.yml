@@ -1,0 +1,137 @@
+- generic [active] [ref=f1e1]:
+  - generic [ref=f1e2]: // declassified — for public awareness // blog.syncpundit.io //
+  - banner [ref=f1e3]:
+    - link "The Case Files of Sync_Pundit" [ref=f1e4] [cursor=pointer]:
+      - /url: "#"
+    - navigation [ref=f1e5]:
+      - link "Investigations" [ref=f1e6] [cursor=pointer]:
+        - /url: "#"
+      - link "Crypto Scams" [ref=f1e7] [cursor=pointer]:
+        - /url: "#"
+      - link "Walkthroughs" [ref=f1e8] [cursor=pointer]:
+        - /url: "#"
+      - link "About" [ref=f1e9] [cursor=pointer]:
+        - /url: "#"
+  - 'link "Previous case: Mission Bianca Coster Vindication" [ref=f1e10] [cursor=pointer]':
+    - /url: "#"
+    - generic [ref=f1e11]: ◂ prev case
+    - generic [ref=f1e12]:
+      - text: Case 2026-011
+      - 'heading "Mission: Bianca Coster Vindication" [level=4] [ref=f1e13]'
+  - 'link "Next case: MetaMask Phisher Plays the Victim" [ref=f1e14] [cursor=pointer]':
+    - /url: "#"
+    - generic [ref=f1e15]: next case ▸
+    - generic [ref=f1e16]:
+      - text: Case 2025-032
+      - heading "MetaMask Phisher Plays the Victim" [level=4] [ref=f1e17]
+  - generic [ref=f1e18]:
+    - link "← back to the records room" [ref=f1e19] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=f1e20]:
+      - generic [ref=f1e21]: Case 2026-014
+      - generic [ref=f1e22]: "Filed: Jun 12, 2026 · Investigation"
+    - heading [level=1] [ref=f1e23]:
+      - text: Anatomy of a
+      - emphasis [ref=f1e24]: Romance Scam
+      - text: Network
+    - generic [ref=f1e25]:
+      - generic [ref=f1e26]: By Sync_Pundit
+      - generic [ref=f1e27]: "Read: 14 min"
+      - generic [ref=f1e28]: "Exhibits: 31"
+      - generic [ref=f1e29]: Ongoing
+  - article [ref=f1e30]:
+    - generic [ref=f1e31]:
+      - text: CASE 2026-014 — OPENED
+      - paragraph [ref=f1e32]: It started with one fake profile — a "surgeon" with stolen photos and a suspicious fondness for gift cards. Pulling that thread unravelled 40+ personas, a shared payment-mule network, and hosting infrastructure that nobody bothered to hide.
+      - paragraph [ref=f1e33]:
+        - text: Romance scams are usually reported as isolated tragedies. They're not. They are
+        - strong [ref=f1e34]: industrial operations
+        - text: with shared tooling, recycled scripts, and central infrastructure — which means they can be mapped, and mapped things can be dismantled. This case file documents the full network, from first contact to the registrar that finally acted.
+      - heading "§ First Contact" [level=2] [ref=f1e35]
+      - paragraph [ref=f1e36]: The profile that opened this case reached out to a victim through a widowers' support group — a hunting ground these crews prefer because grief lowers defences. Within three messages the conversation moved to Telegram. Within ten, the "surgeon" had a customs emergency only an Apple gift card could solve.
+      - figure "Exhibit A 40 personas, 6 recycled photo sets" [ref=f1e37]:
+        - generic [ref=f1e38]: "[ exhibit image — profile grid ]"
+        - generic [ref=f1e39]:
+          - generic [ref=f1e40]: Exhibit A
+          - generic [ref=f1e41]: 40 personas, 6 recycled photo sets
+      - heading "§ Pivoting on Infrastructure" [level=2] [ref=f1e42]
+      - paragraph [ref=f1e43]: "Every persona linked back to one of three \"verification\" sites — pages built to make a fake identity look bankable. All three shared a Google Analytics ID. Amateur hour, but useful for us:"
+      - generic [ref=f1e44]:
+        - generic [ref=f1e45]:
+          - generic [ref=f1e46]: evidence log — dns pivot
+          - generic [ref=f1e47]: exhibit F
+        - generic [ref=f1e48]: "# reverse lookup on shared analytics ID $ threat-hunter pivot --ua UA-84921-XX found: verify-my-love[.]com → 91.234.xx.xx found: military-docs-check[.]net → 91.234.xx.xx found: global-parcel-pay[.]org → 91.234.xx.xx # same /24, same registrar, same week of registration"
+      - blockquote [ref=f1e49]:
+        - text: "\"He said the money was for a flight home from the oil rig. I sent it because no one had spoken to me like that since my husband died.\""
+        - generic [ref=f1e50]: "— Statement, victim #3 (shared with permission)"
+      - heading "§ Chain of Custody" [level=2] [ref=f1e51]
+      - list [ref=f1e52]:
+        - listitem [ref=f1e53]:
+          - generic [ref=f1e54]: Mar 02 — 2026
+          - text: First profile reported to me by a reader of this blog.
+        - listitem [ref=f1e55]:
+          - generic [ref=f1e56]: Mar 18 — 2026
+          - text: Analytics pivot exposes 38 additional personas across 4 platforms.
+        - listitem [ref=f1e57]:
+          - generic [ref=f1e58]: Apr 06 — 2026
+          - text: Abuse reports filed with registrar and host. Silence.
+        - listitem [ref=f1e59]:
+          - generic [ref=f1e60]: May 22 — 2026
+          - text: Evidence pack shared with platform trust & safety. 31 accounts terminated.
+        - listitem [ref=f1e61]:
+          - generic [ref=f1e62]: Jun 12 — 2026
+          - text: This file published. Infrastructure re-registration being monitored.
+      - paragraph [ref=f1e63]:
+        - text: The mule network — the part that actually moves the money — is still active, which is why this case stays
+        - strong [ref=f1e64]: open
+        - text: . Part two will follow the payments.
+      - generic [ref=f1e65]:
+        - generic [ref=f1e66]: Filed & sworn by Sync_Pundit 🔱 CTI analyst · scam hunter
+        - generic [ref=f1e67]:
+          - text: Case ongoing
+          - generic [ref=f1e68]: updates to follow
+  - generic [ref=f1e69]:
+    - generic [ref=f1e70]:
+      - link "#romance-scam" [ref=f1e71] [cursor=pointer]:
+        - /url: "#"
+      - link "#osint" [ref=f1e72] [cursor=pointer]:
+        - /url: "#"
+      - link "#infrastructure" [ref=f1e73] [cursor=pointer]:
+        - /url: "#"
+      - link "#gift-cards" [ref=f1e74] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f1e75]:
+      - text: "share:"
+      - link "mastodon" [ref=f1e76] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "x" [ref=f1e77] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "copy link" [ref=f1e78] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=f1e79]:
+    - generic [ref=f1e80]: // cross-referenced files
+    - generic [ref=f1e81]:
+      - link [ref=f1e82] [cursor=pointer]:
+        - /url: "#"
+        - text: PREV — CASE 2026-011 ← previous case
+        - 'heading "Mission: Bianca Coster Vindication" [level=3] [ref=f1e83]'
+      - link [ref=f1e84] [cursor=pointer]:
+        - /url: "#"
+        - text: NEXT — CASE 2025-032 next case →
+        - heading "MetaMask Phisher Plays the Victim" [level=3] [ref=f1e85]
+  - contentinfo [ref=f1e86]:
+    - generic [ref=f1e87]: © sync_pundit — no trackers, no logs
+    - generic [ref=f1e88]:
+      - link "rss" [ref=f1e89] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "mastodon" [ref=f1e90] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "github" [ref=f1e91] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "substack" [ref=f1e92] [cursor=pointer]:
+        - /url: "#"

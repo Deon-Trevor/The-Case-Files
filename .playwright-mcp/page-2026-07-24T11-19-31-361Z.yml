@@ -1,0 +1,125 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: // declassified — for public awareness // blog.syncpundit.io //
+  - banner [ref=e3]:
+    - link "The Case Files of Sync_Pundit" [ref=e4] [cursor=pointer]:
+      - /url: "#"
+    - navigation [ref=e5]:
+      - link "Investigations" [ref=e6] [cursor=pointer]:
+        - /url: "#"
+      - link "Crypto Scams" [ref=e7] [cursor=pointer]:
+        - /url: "#"
+      - link "Walkthroughs" [ref=e8] [cursor=pointer]:
+        - /url: "#"
+      - link "About" [ref=e9] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e10]:
+    - link "← back to the records room" [ref=e11] [cursor=pointer]:
+      - /url: "#"
+    - generic [ref=e12]:
+      - generic [ref=e13]: Case 2026-014
+      - generic [ref=e14]: "Filed: Jun 12, 2026 · Investigation"
+    - heading [level=1] [ref=e15]:
+      - text: Anatomy of a
+      - emphasis [ref=e16]: Romance Scam
+      - text: Network
+    - generic [ref=e17]:
+      - generic [ref=e18]: By Sync_Pundit
+      - generic [ref=e19]: "Read: 14 min"
+      - generic [ref=e20]: "Exhibits: 31"
+      - generic [ref=e21]: Ongoing
+  - article [ref=e22]:
+    - generic [ref=e23]:
+      - text: CASE 2026-014 — OPENED
+      - paragraph [ref=e24]: It started with one fake profile — a "surgeon" with stolen photos and a suspicious fondness for gift cards. Pulling that thread unravelled 40+ personas, a shared payment-mule network, and hosting infrastructure that nobody bothered to hide.
+      - paragraph [ref=e25]:
+        - text: Romance scams are usually reported as isolated tragedies. They're not. They are
+        - strong [ref=e26]: industrial operations
+        - text: with shared tooling, recycled scripts, and central infrastructure — which means they can be mapped, and mapped things can be dismantled. This case file documents the full network, from first contact to the registrar that finally acted.
+      - heading "§ First Contact" [level=2] [ref=e27]
+      - paragraph [ref=e28]: The profile that opened this case reached out to a victim through a widowers' support group — a hunting ground these crews prefer because grief lowers defences. Within three messages the conversation moved to Telegram. Within ten, the "surgeon" had a customs emergency only an Apple gift card could solve.
+      - figure "Exhibit A 40 personas, 6 recycled photo sets" [ref=e29]:
+        - generic [ref=e30]: "[ exhibit image — profile grid ]"
+        - generic [ref=e31]:
+          - generic [ref=e32]: Exhibit A
+          - generic [ref=e33]: 40 personas, 6 recycled photo sets
+      - heading "§ Pivoting on Infrastructure" [level=2] [ref=e34]
+      - paragraph [ref=e35]: "Every persona linked back to one of three \"verification\" sites — pages built to make a fake identity look bankable. All three shared a Google Analytics ID. Amateur hour, but useful for us:"
+      - generic [ref=e36]:
+        - generic [ref=e37]:
+          - generic [ref=e38]: evidence log — dns pivot
+          - generic [ref=e39]: exhibit F
+        - generic [ref=e40]: "# reverse lookup on shared analytics ID $ threat-hunter pivot --ua UA-84921-XX found: verify-my-love[.]com → 91.234.xx.xx found: military-docs-check[.]net → 91.234.xx.xx found: global-parcel-pay[.]org → 91.234.xx.xx # same /24, same registrar, same week of registration"
+      - blockquote [ref=e41]:
+        - text: "\"He said the money was for a flight home from the oil rig. I sent it because no one had spoken to me like that since my husband died.\""
+        - generic [ref=e42]: "— Statement, victim #3 (shared with permission)"
+      - heading "§ Chain of Custody" [level=2] [ref=e43]
+      - list [ref=e44]:
+        - listitem [ref=e45]:
+          - generic [ref=e46]: Mar 02 — 2026
+          - text: First profile reported to me by a reader of this blog.
+        - listitem [ref=e47]:
+          - generic [ref=e48]: Mar 18 — 2026
+          - text: Analytics pivot exposes 38 additional personas across 4 platforms.
+        - listitem [ref=e49]:
+          - generic [ref=e50]: Apr 06 — 2026
+          - text: Abuse reports filed with registrar and host. Silence.
+        - listitem [ref=e51]:
+          - generic [ref=e52]: May 22 — 2026
+          - text: Evidence pack shared with platform trust & safety. 31 accounts terminated.
+        - listitem [ref=e53]:
+          - generic [ref=e54]: Jun 12 — 2026
+          - text: This file published. Infrastructure re-registration being monitored.
+      - paragraph [ref=e55]:
+        - text: The mule network — the part that actually moves the money — is still active, which is why this case stays
+        - strong [ref=e56]: open
+        - text: . Part two will follow the payments.
+      - generic [ref=e57]:
+        - generic [ref=e58]: Filed & sworn by Sync_Pundit 🔱 CTI analyst · scam hunter
+        - generic [ref=e59]:
+          - text: Case ongoing
+          - generic [ref=e60]: updates to follow
+  - generic [ref=e61]:
+    - generic [ref=e62]:
+      - link "#romance-scam" [ref=e63] [cursor=pointer]:
+        - /url: "#"
+      - link "#osint" [ref=e64] [cursor=pointer]:
+        - /url: "#"
+      - link "#infrastructure" [ref=e65] [cursor=pointer]:
+        - /url: "#"
+      - link "#gift-cards" [ref=e66] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=e67]:
+      - text: "share:"
+      - link "mastodon" [ref=e68] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "x" [ref=e69] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "copy link" [ref=e70] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=e71]:
+    - generic [ref=e72]: // cross-referenced files
+    - generic [ref=e73]:
+      - link [ref=e74] [cursor=pointer]:
+        - /url: "#"
+        - text: PREV — CASE 2026-011 ← previous case
+        - 'heading "Mission: Bianca Coster Vindication" [level=3] [ref=e75]'
+      - link [ref=e76] [cursor=pointer]:
+        - /url: "#"
+        - text: NEXT — CASE 2025-032 next case →
+        - heading "MetaMask Phisher Plays the Victim" [level=3] [ref=e77]
+  - contentinfo [ref=e78]:
+    - generic [ref=e79]: © sync_pundit — no trackers, no logs
+    - generic [ref=e80]:
+      - link "rss" [ref=e81] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "mastodon" [ref=e82] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "github" [ref=e83] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "substack" [ref=e84] [cursor=pointer]:
+        - /url: "#"

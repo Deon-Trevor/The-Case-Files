@@ -60,18 +60,18 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.io/metamask-phisher-plays-the-victim/</loc>
-<lastmod>2021-09-20T19:59:22+02:00</lastmod>
+<lastmod>2023-12-15T11:30:18+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/4/metamask-landing-page.png</image:loc>
 <image:title><![CDATA[Fake metamask landing page]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/4/metamask-landing-page-2.png</image:loc>
-<image:title><![CDATA[MetaMask Phish Landing Page]]></image:title>
+<image:title><![CDATA[Metamask landing page]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/4/metamask-wallet-page.png</image:loc>
-<image:title><![CDATA[MetaMask Phish Kit seed harvester page]]></image:title>
+<image:title><![CDATA[Metamask wallet page]]></image:title>
 </image:image>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/4/metamask-weird-wallet.png</image:loc>
@@ -103,6 +103,30 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.syncpundit.io/mission-bianca-costa-closing-the-file/</loc>
+<lastmod>2026-07-24T16:50:32+02:00</lastmod>
+<image:image>
+<image:loc>https://blog.syncpundit.io/media/posts/11/image-1784900806645-2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.io/media/posts/11/image-1784900791707.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.io/media/posts/11/image-1784900799709.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.io/media/posts/11/image-1784900803410.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://blog.syncpundit.io/media/posts/11/image-1784900806645.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://blog.syncpundit.io/mission-bianca-coster-vindication/</loc>
 <lastmod>2023-04-25T21:09:37+02:00</lastmod>
 <image:image>
@@ -112,7 +136,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.io/namecheap-home-to-phishing-sites/</loc>
-<lastmod>2021-09-20T20:14:15+02:00</lastmod>
+<lastmod>2023-12-15T11:47:17+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/5/namecheap.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -137,9 +161,6 @@
 <image:loc>https://blog.syncpundit.io/media/posts/5/namecheaptweet.png</image:loc>
 <image:title><![CDATA[NameCheap Does Not Respond to Tickets]]></image:title>
 </image:image>
-</url>
-<url>
-<loc>https://blog.syncpundit.io/page/2/</loc>
 </url>
 <url>
 <loc>https://blog.syncpundit.io/pancakeswap-and-cream-finance-dns-attack/</loc>
@@ -211,7 +232,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.io/spacex-bitcoin-giveaway/</loc>
-<lastmod>2021-09-20T20:02:34+02:00</lastmod>
+<lastmod>2023-12-15T11:58:05+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/1/unnamed-2-2.png</image:loc>
 <image:title><![CDATA[]]></image:title>
@@ -221,7 +242,7 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file:///home/notorious/Documents/Publii/sites/sync_pundit/input/media/posts/2//unnamed-1.png</image:loc>
+<image:loc>file:///home/fluffy/Documents/Publii/sites/sync_pundit/input/media/posts/2/unnamed-1.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -257,7 +278,7 @@
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
-<image:loc>file:///home/notorious/Documents/Publii/sites/sync_pundit/input/media/posts/2//unnamed-8.png</image:loc>
+<image:loc>file:///home/fluffy/Documents/Publii/sites/sync_pundit/input/media/posts/2/unnamed-8.png</image:loc>
 <image:title><![CDATA[]]></image:title>
 </image:image>
 <image:image>
@@ -274,6 +295,12 @@
 </image:image>
 </url>
 <url>
+<loc>https://blog.syncpundit.io/sync/identity-theft/</loc>
+</url>
+<url>
+<loc>https://blog.syncpundit.io/sync/impersonation/</loc>
+</url>
+<url>
 <loc>https://blog.syncpundit.io/sync/phishing/</loc>
 </url>
 <url>
@@ -287,7 +314,7 @@
 </url>
 <url>
 <loc>https://blog.syncpundit.io/tryhackme-vulnversity-walkthrough/</loc>
-<lastmod>2021-09-20T19:26:12+02:00</lastmod>
+<lastmod>2023-12-15T11:48:38+02:00</lastmod>
 <image:image>
 <image:loc>https://blog.syncpundit.io/media/posts/3/vulversity.png</image:loc>
 <image:title><![CDATA[Vulnversity]]></image:title>

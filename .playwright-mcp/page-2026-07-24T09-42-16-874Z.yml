@@ -1,0 +1,98 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e2]: ⚠ SCAM ALERT — WALLET DRAINERS ACTIVE ⚠ 40+ FAKE PERSONAS MAPPED ⚠ YOUR REGISTRAR IS IGNORING ABUSE REPORTS ⚠ NO TRACKERS · NO LOGS · NO MERCY ⚠ I WILL MAKE YOU PHISHERS OF MAN 🔱 ⚠ SCAM ALERT — WALLET DRAINERS ACTIVE ⚠ 40+ FAKE PERSONAS MAPPED ⚠ YOUR REGISTRAR IS IGNORING ABUSE REPORTS ⚠ NO TRACKERS · NO LOGS · NO MERCY ⚠ I WILL MAKE YOU PHISHERS OF MAN 🔱
+  - banner [ref=f4e4]:
+    - generic [ref=f4e5]:
+      - heading "Phishers of man" [level=1] [ref=f4e6]: Phishersof man
+      - paragraph [ref=f4e7]: The scam-hunting zine of Sync_Pundit. Threat intel with teeth — mostly crypto, always receipts. 👽😎🔱🔥
+    - generic [ref=f4e8]: est. by a curious n00b
+    - generic [ref=f4e9]: exposed!
+  - navigation [ref=f4e10]:
+    - link "Investigations" [ref=f4e11] [cursor=pointer]:
+      - /url: "#"
+    - link "Crypto Scams" [ref=f4e12] [cursor=pointer]:
+      - /url: "#"
+    - link "Walkthroughs" [ref=f4e13] [cursor=pointer]:
+      - /url: "#"
+    - link "About" [ref=f4e14] [cursor=pointer]:
+      - /url: "#"
+    - link "RSS ▶" [ref=f4e16] [cursor=pointer]:
+      - /url: "#"
+  - generic [ref=f4e17]:
+    - generic [ref=f4e18]:
+      - generic [ref=f4e19]: Latest investigation
+      - heading [level=2] [ref=f4e20]:
+        - text: Anatomy of a
+        - mark [ref=f4e21]: Romance Scam
+        - text: Network
+      - paragraph [ref=f4e22]: "One fake profile, pulled like a loose thread: 40+ personas, shared payment mules, and hosting infrastructure hiding in plain sight. The full map, published — because sunlight is the only abuse desk that always answers."
+      - link "Read the takedown →" [ref=f4e23] [cursor=pointer]:
+        - /url: "#"
+    - complementary [ref=f4e24]:
+      - generic [ref=f4e25]:
+        - generic [ref=f4e26]: 40+
+        - paragraph [ref=f4e27]: fake personas traced to a single scam operation. Every one of them is somebody's "boyfriend deployed overseas."
+      - paragraph [ref=f4e28]: Filed by Sync_Pundit — CTI analyst, scam hunter, professional nuisance to phishing crews.
+  - generic [ref=f4e29]:
+    - generic [ref=f4e30]: /// the archive
+    - generic [ref=f4e31]: 24 posts
+  - main [ref=f4e32]:
+    - 'link "Vindication May 2026 Mission: Bianca Coster The internet convicted the wrong person. Reopening the case with actual evidence. →" [ref=f4e33] [cursor=pointer]':
+      - /url: "#"
+      - generic [ref=f4e34]:
+        - generic [ref=f4e35]: Vindication
+        - generic [ref=f4e36]: May 2026
+      - 'heading "Mission: Bianca Coster" [level=3] [ref=f4e37]'
+      - paragraph [ref=f4e38]: The internet convicted the wrong person. Reopening the case with actual evidence.
+      - generic [ref=f4e39]: →
+    - link "Phishing Nov 2025 MetaMask Phisher Plays the Victim A wallet-drainer files an abuse report — against me. The audacity, archived. →" [ref=f4e40] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e41]:
+        - generic [ref=f4e42]: Phishing
+        - generic [ref=f4e43]: Nov 2025
+      - heading "MetaMask Phisher Plays the Victim" [level=3] [ref=f4e44]
+      - paragraph [ref=f4e45]: A wallet-drainer files an abuse report — against me. The audacity, archived.
+      - generic [ref=f4e46]: →
+    - 'link "Infrastructure Sep 2025 Namecheap: Home to Phishing Sites An audit of abuse reports that went straight to /dev/null. →" [ref=f4e47] [cursor=pointer]':
+      - /url: "#"
+      - generic [ref=f4e48]:
+        - generic [ref=f4e49]: Infrastructure
+        - generic [ref=f4e50]: Sep 2025
+      - 'heading "Namecheap: Home to Phishing Sites" [level=3] [ref=f4e51]'
+      - paragraph [ref=f4e52]: An audit of abuse reports that went straight to /dev/null.
+      - generic [ref=f4e53]: →
+    - link "Crypto Jul 2025 PancakeSwap & Cream DNS Attack Two DeFi frontends hijacked in one night, reconstructed minute by minute. →" [ref=f4e54] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e55]:
+        - generic [ref=f4e56]: Crypto
+        - generic [ref=f4e57]: Jul 2025
+      - heading "PancakeSwap & Cream DNS Attack" [level=3] [ref=f4e58]
+      - paragraph [ref=f4e59]: Two DeFi frontends hijacked in one night, reconstructed minute by minute.
+      - generic [ref=f4e60]: →
+    - link "Consumer Apr 2025 Is Established Titles a Scam? You are not a lord. Let's talk about it. →" [ref=f4e61] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e62]:
+        - generic [ref=f4e63]: Consumer
+        - generic [ref=f4e64]: Apr 2025
+      - heading "Is Established Titles a Scam?" [level=3] [ref=f4e65]
+      - paragraph [ref=f4e66]: You are not a lord. Let's talk about it.
+      - generic [ref=f4e67]: →
+    - link "CTF Lab Mar 2025 Uranium CTF Walkthrough Sharpening the tools between hunts. Every rabbit hole included. →" [ref=f4e68] [cursor=pointer]:
+      - /url: "#"
+      - generic [ref=f4e69]:
+        - generic [ref=f4e70]: CTF Lab
+        - generic [ref=f4e71]: Mar 2025
+      - heading "Uranium CTF Walkthrough" [level=3] [ref=f4e72]
+      - paragraph [ref=f4e73]: Sharpening the tools between hunts. Every rabbit hole included.
+      - generic [ref=f4e74]: →
+  - contentinfo [ref=f4e75]:
+    - generic [ref=f4e76]: Sync_Pundit 🔱
+    - generic [ref=f4e77]:
+      - link "GitHub" [ref=f4e78] [cursor=pointer]:
+        - /url: "#"
+      - link "Mastodon" [ref=f4e79] [cursor=pointer]:
+        - /url: "#"
+      - link "Substack" [ref=f4e80] [cursor=pointer]:
+        - /url: "#"
+      - link "Odin's Eye" [ref=f4e81] [cursor=pointer]:
+        - /url: "#"
+    - generic [ref=f4e82]: No trackers · no logs · no mercy

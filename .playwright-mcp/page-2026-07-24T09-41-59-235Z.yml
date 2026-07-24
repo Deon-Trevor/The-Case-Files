@@ -1,0 +1,110 @@
+- generic [active] [ref=f3e1]:
+  - generic [ref=f3e2]: // declassified — for public awareness // blog.syncpundit.io //
+  - banner [ref=f3e3]:
+    - generic [ref=f3e4]:
+      - generic [ref=f3e5]: records room of a curious n00b 👽
+      - heading "The Case Files of Sync_Pundit" [level=1] [ref=f3e6]: The Case Filesof Sync_Pundit
+    - navigation [ref=f3e7]:
+      - link "Investigations" [ref=f3e8] [cursor=pointer]:
+        - /url: "#"
+      - link "Crypto Scams" [ref=f3e9] [cursor=pointer]:
+        - /url: "#"
+      - link "Walkthroughs" [ref=f3e10] [cursor=pointer]:
+        - /url: "#"
+      - link "About" [ref=f3e11] [cursor=pointer]:
+        - /url: "#"
+  - generic [ref=f3e12]:
+    - paragraph [ref=f3e13]: "Every post here is a case file: phishing crews unmasked, scam networks mapped, infrastructure traced back to the registrar that ignored it. Threat intelligence, mostly from the crypto trenches — evidence first, receipts always."
+    - generic [ref=f3e14]:
+      - text: Phishersof man
+      - generic [ref=f3e16]: caught & catalogued
+  - generic [ref=f3e17]:
+    - generic [ref=f3e18]: index — 24 files on record
+    - generic [ref=f3e19]: "sorted: newest first"
+  - main [ref=f3e20]:
+    - 'link "CASE 2026-014 · PINNED Investigation Jun 2026 Anatomy of a Romance Scam Network Following one fake profile into a web of 40+ personas, shared payment mules, and a hosting provider in plain sight. Full infrastructure map inside. exhibits: 31 Ongoing" [ref=f3e21] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2026-014 · PINNED
+      - generic [ref=f3e22]:
+        - generic [ref=f3e23]:
+          - generic [ref=f3e24]: Investigation
+          - generic [ref=f3e25]: Jun 2026
+        - heading "Anatomy of a Romance Scam Network" [level=2] [ref=f3e26]
+        - paragraph [ref=f3e27]: Following one fake profile into a web of 40+ personas, shared payment mules, and a hosting provider in plain sight. Full infrastructure map inside.
+        - generic [ref=f3e28]:
+          - generic [ref=f3e29]: "exhibits: 31"
+          - generic [ref=f3e30]: Ongoing
+    - 'link "CASE 2026-011 Vindication May 2026 Mission: Bianca Coster When the internet convicts the wrong person, the evidence has to speak louder. Reopening the file. exhibits: 12 Closed" [ref=f3e31] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2026-011
+      - generic [ref=f3e32]:
+        - generic [ref=f3e33]:
+          - generic [ref=f3e34]: Vindication
+          - generic [ref=f3e35]: May 2026
+        - 'heading "Mission: Bianca Coster" [level=2] [ref=f3e36]'
+        - paragraph [ref=f3e37]: When the internet convicts the wrong person, the evidence has to speak louder. Reopening the file.
+        - generic [ref=f3e38]:
+          - generic [ref=f3e39]: "exhibits: 12"
+          - generic [ref=f3e40]: Closed
+    - 'link "CASE 2025-032 Phishing Nov 2025 MetaMask Phisher Plays the Victim A wallet-drainer operator files an abuse report — against me. The audacity, documented. exhibits: 9 Closed" [ref=f3e41] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-032
+      - generic [ref=f3e42]:
+        - generic [ref=f3e43]:
+          - generic [ref=f3e44]: Phishing
+          - generic [ref=f3e45]: Nov 2025
+        - heading "MetaMask Phisher Plays the Victim" [level=2] [ref=f3e46]
+        - paragraph [ref=f3e47]: A wallet-drainer operator files an abuse report — against me. The audacity, documented.
+        - generic [ref=f3e48]:
+          - generic [ref=f3e49]: "exhibits: 9"
+          - generic [ref=f3e50]: Closed
+    - 'link "CASE 2025-027 Infrastructure Sep 2025 Namecheap: Home to Phishing Sites What happens when abuse reports go to /dev/null. A registrar accountability audit. exhibits: 18 Ongoing" [ref=f3e51] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-027
+      - generic [ref=f3e52]:
+        - generic [ref=f3e53]:
+          - generic [ref=f3e54]: Infrastructure
+          - generic [ref=f3e55]: Sep 2025
+        - 'heading "Namecheap: Home to Phishing Sites" [level=2] [ref=f3e56]'
+        - paragraph [ref=f3e57]: What happens when abuse reports go to /dev/null. A registrar accountability audit.
+        - generic [ref=f3e58]:
+          - generic [ref=f3e59]: "exhibits: 18"
+          - generic [ref=f3e60]: Ongoing
+    - 'link "CASE 2025-019 Crypto Jul 2025 PancakeSwap & Cream Finance DNS Attack Two DeFi frontends hijacked in one night. Tracing the DNS takeover minute by minute. exhibits: 14 Closed" [ref=f3e61] [cursor=pointer]':
+      - /url: "#"
+      - text: CASE 2025-019
+      - generic [ref=f3e62]:
+        - generic [ref=f3e63]:
+          - generic [ref=f3e64]: Crypto
+          - generic [ref=f3e65]: Jul 2025
+        - heading "PancakeSwap & Cream Finance DNS Attack" [level=2] [ref=f3e66]
+        - paragraph [ref=f3e67]: Two DeFi frontends hijacked in one night. Tracing the DNS takeover minute by minute.
+        - generic [ref=f3e68]:
+          - generic [ref=f3e69]: "exhibits: 14"
+          - generic [ref=f3e70]: Closed
+    - 'link "FIELD NOTES 07 CTF Mar 2025 Uranium CTF Walkthrough Sharpening the tools between hunts. Full write-up, no spoiler shame. exhibits: 6 Training" [ref=f3e71] [cursor=pointer]':
+      - /url: "#"
+      - text: FIELD NOTES 07
+      - generic [ref=f3e72]:
+        - generic [ref=f3e73]:
+          - generic [ref=f3e74]: CTF
+          - generic [ref=f3e75]: Mar 2025
+        - heading "Uranium CTF Walkthrough" [level=2] [ref=f3e76]
+        - paragraph [ref=f3e77]: Sharpening the tools between hunts. Full write-up, no spoiler shame.
+        - generic [ref=f3e78]:
+          - generic [ref=f3e79]: "exhibits: 6"
+          - generic [ref=f3e80]: Training
+  - contentinfo [ref=f3e81]:
+    - generic [ref=f3e82]: © sync_pundit — no trackers, no logs
+    - generic [ref=f3e83]:
+      - link "rss" [ref=f3e84] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "mastodon" [ref=f3e85] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "github" [ref=f3e86] [cursor=pointer]:
+        - /url: "#"
+      - text: ·
+      - link "substack" [ref=f3e87] [cursor=pointer]:
+        - /url: "#"
