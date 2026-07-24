@@ -1,4 +1,4 @@
-/* Case Files theme — minimal behaviors, no dependencies */
+/* Case Files theme - minimal behaviors, no dependencies */
 (function () {
   'use strict';
 
@@ -36,6 +36,20 @@
         document.body.removeChild(ta);
         done();
       }
+    });
+  }
+
+  // Back to top: folder tab rises from the bottom edge after a screen of scrolling
+  var toTop = document.querySelector('[data-totop]');
+  if (toTop) {
+    var toggleToTop = function () {
+      toTop.classList.toggle('show', window.scrollY > window.innerHeight * 1.25);
+    };
+    window.addEventListener('scroll', toggleToTop, { passive: true });
+    toggleToTop();
+    toTop.addEventListener('click', function (e) {
+      e.preventDefault();
+      window.scrollTo({ top: 0, behavior: 'smooth' });
     });
   }
 

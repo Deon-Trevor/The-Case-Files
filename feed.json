@@ -37,9 +37,11 @@
                 "name": "Sync_Pundit"
             },
             "tags": [
+                   "impersonation",
+                   "identity-theft"
             ],
             "date_published": "2023-04-25T21:01:13+02:00",
-            "date_modified": "2023-04-25T21:09:37+02:00"
+            "date_modified": "2026-07-24T17:13:23+02:00"
         },
         {
             "id": "https://blog.syncpundit.io/are-we-safe-from-tiktok/",
