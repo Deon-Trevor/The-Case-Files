@@ -1,5 +1,5 @@
 /* ==========================================================================
-   Case Files — an original Publii theme for blog.syncpundit.io
+   Case Files - an original Publii theme for blog.syncpundit.io
    Design language: records room / investigative dossier.
    Tokens are CSS custom properties; the five base colors are overridden
    from the Publii GUI via an inline <style> in partials/head.hbs.
@@ -33,7 +33,7 @@
 }
 
 :root{
-  /* base palette — overridden from the Publii GUI */
+  /* base palette - overridden from the Publii GUI */
   --desk:#17150f;
   --folder:#d3b877;
   --paper:#efe6cf;
@@ -196,7 +196,7 @@ a{color:inherit}
   *,*::before,*::after{animation:none !important;transition:none !important}
 }
 
-/* redaction — usable anywhere */
+/* redaction - usable anywhere */
 .redact{
   background:var(--ink);
   color:var(--ink) !important;
@@ -536,7 +536,7 @@ a{color:inherit}
   text-align:left;
 }
 .entry figcaption::before{
-  content:"Exhibit — ";
+  content:"Exhibit - ";
   color:var(--stamp);
 }
 
@@ -1003,6 +1003,32 @@ a{color:inherit}
 }
 .site-footer a{color:var(--folder);text-decoration:none}
 .site-footer a:hover{text-decoration:underline}
+
+/* ── Back to top: a folder tab rising from the bottom edge ── */
+.totop{
+  position:fixed;
+  right:1.4rem;
+  bottom:0;
+  z-index:20;
+  background:var(--folder);
+  color:var(--ink);
+  font-family:var(--font-mono);
+  font-size:.66rem;
+  font-weight:700;
+  letter-spacing:.18em;
+  text-transform:uppercase;
+  text-decoration:none;
+  padding:.55rem 1rem .7rem;
+  border-radius:8px 8px 0 0;
+  border:1px solid rgba(0,0,0,.33);
+  border-bottom:none;
+  box-shadow:0 -6px 16px -8px #000;
+  transform:translateY(110%);
+  transition:transform .25s ease, background .15s ease;
+}
+.totop.show{transform:translateY(0)}
+.totop.show:hover{background:var(--paper);transform:translateY(-4px)}
+.totop:focus-visible{transform:translateY(0)}
 
 /* ── Responsive ── */
 @media (max-width:820px){
