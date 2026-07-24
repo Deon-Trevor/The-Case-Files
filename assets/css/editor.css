@@ -1,3 +1,54 @@
-/* 
- * Add your own CSS code for the WYSIWYG editor 
- */
+/* Case Files — editor styles so writing feels like the published paper */
+body {
+  background: #efe6cf;
+  color: #221e14;
+  font-family: 'Archivo', 'Helvetica Neue', Arial, sans-serif;
+  font-size: 1rem;
+  line-height: 1.8;
+}
+h1, h2, h3, h4 {
+  font-family: 'Big Shoulders Display', 'Archivo Narrow', 'Arial Narrow', sans-serif;
+  text-transform: uppercase;
+  line-height: 1;
+}
+a { color: #7a2417; }
+code, pre { font-family: 'Courier Prime', 'Courier New', monospace; }
+pre {
+  background: #221e14;
+  color: #e8ddc0;
+  padding: 1rem;
+  border-radius: 4px;
+}
+blockquote {
+  background: #e6dabb;
+  padding: 1.2rem 1.4rem;
+  font-style: italic;
+  border: none;
+}
+.redact {
+  background: #221e14;
+  color: #221e14;
+  border-radius: 2px;
+  padding: 0 .4em;
+}
+.lede {
+  font-size: 1.16rem;
+  font-weight: 500;
+  border-left: 5px solid #b5311e;
+  padding-left: 1.2rem;
+}
+ul.custody {
+  border-left: 3px solid #b5311e;
+  padding-left: 1.6rem;
+  list-style: none;
+}
+.stampbox {
+  display: inline-block;
+  border: 4px double #b5311e;
+  color: #b5311e;
+  font-family: 'Courier Prime', 'Courier New', monospace;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+  padding: .8rem 1.3rem;
+}

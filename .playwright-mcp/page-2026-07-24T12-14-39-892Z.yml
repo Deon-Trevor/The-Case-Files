@@ -1,0 +1,28 @@
+- generic [active] [ref=e1]:
+  - generic [ref=e2]: // font specimen — self-hosted woff2 //
+  - generic [ref=e3]:
+    - generic [ref=e4]:
+      - generic [ref=e5]: CASE 2026-00
+      - generic [ref=e6]: "Filed: Jul 24, 2026 · Specimen"
+    - heading [level=1] [ref=e7]:
+      - text: Big Shoulders
+      - emphasis [ref=e8]: Display 900
+    - generic [ref=e9]:
+      - generic [ref=e10]: Courier Prime regular & bold and italic
+      - generic [ref=e11]: Ongoing
+  - article [ref=e12]:
+    - generic [ref=e13]:
+      - generic [ref=e14]: CASE 2026-00 — opened
+      - paragraph [ref=e15]: "Archivo carries the body text: weights from light to bold in one variable file, self-hosted, zero calls to Google."
+      - generic [ref=e16]:
+        - heading "§ Section header in Big Shoulders 700" [level=2] [ref=e17]
+        - paragraph [ref=e18]:
+          - text: Body copy in Archivo.
+          - strong [ref=e19]: Bold Archivo.
+          - link "A link in stamp-red ink." [ref=e20] [cursor=pointer]:
+            - /url: "#"
+          - text: And a redacted secret inline.
+        - generic [ref=e21]: "evidence log $ evidence log in Courier Prime found: font-family confirmed"
+        - blockquote [ref=e22]:
+          - text: "\"A witness statement set in italic Archivo, on a taped slip of paper.\""
+          - generic [ref=e23]: — specimen, 2026
