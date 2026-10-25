@@ -1,0 +1,41 @@
+{
+  "engine": "Chromium emulation",
+  "checks": [
+    {
+      "name": "All generated case-file pages fit phone and tablet widths",
+      "status": "passed"
+    },
+    {
+      "name": "Bulletin loops, pauses persistently, and reduced motion shows its full text",
+      "status": "passed"
+    },
+    {
+      "name": "Reading controls derive all sections, retain type size and track progress",
+      "status": "passed"
+    },
+    {
+      "name": "Evidence images open in a full screen viewer and restore focus",
+      "status": "passed"
+    },
+    {
+      "name": "Search uses the feed safely and handles unavailable indexing",
+      "status": "passed"
+    },
+    {
+      "name": "Sharing falls back to selectable links when clipboard is unavailable",
+      "status": "passed"
+    },
+    {
+      "name": "A newly generated post inherits section controls and contains wide evidence",
+      "status": "passed"
+    },
+    {
+      "name": "Desktop retains its layout and the core site works without JavaScript",
+      "status": "passed"
+    }
+  ],
+  "limits": [
+    "Physical Firefox/WebKit, native share sheets and hardware keyboards require device checks."
+  ],
+  "page_viewport_combinations": 84
+}
