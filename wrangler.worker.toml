@@ -1,0 +1,10 @@
+# Preview Worker only. Pages and the blog custom domains remain unchanged.
+name = "sync-pundit-blog-worker-preview"
+main = "./src/worker.js"
+compatibility_date = "2026-10-25"
+
+[assets]
+directory = "./output/worker-assets"
+binding = "ASSETS"
+run_worker_first = true
+not_found_handling = "404-page"
