@@ -46,6 +46,10 @@ build/Release
 
 # Dependency directories
 node_modules/
+output/
+__pycache__/
+*.pyc
+tests/mobile-focused-results.json
 
 # Optional npm cache directory
 .npm
